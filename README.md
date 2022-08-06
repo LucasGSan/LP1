@@ -1,2 +1,2 @@
 # LP1
-Some C Homeworks
+Some C algorithms
