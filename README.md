@@ -1,2 +1,2 @@
 # LP1
-Some C Homework
+Some C Homeworks
